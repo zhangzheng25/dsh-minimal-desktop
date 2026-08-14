@@ -1,0 +1,14 @@
+# 构建输出
+/dist/
+
+# 运行时日志
+logs/
+*.log
+
+# 系统/编辑器文件
+Thumbs.db
+Desktop.ini
+.vs/
+.idea/
+*.user
+*.suo
