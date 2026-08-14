@@ -1,9 +1,6 @@
-# 构建输出
-/dist/
-
-# 运行时日志
-logs/
+# 运行时日志（不入库）
 *.log
+dist/logs/
 
 # 系统/编辑器文件
 Thumbs.db
