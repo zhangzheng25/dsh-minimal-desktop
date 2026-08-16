@@ -2,6 +2,9 @@
 *.log
 dist/logs/
 
+# Windows 快捷方式
+*.lnk
+
 # 系统/编辑器文件
 Thumbs.db
 Desktop.ini
